@@ -1,6 +1,6 @@
 public class java {
     public static void main(String[] args) {
-        System.out.println("buenas noches");
+        System.out.println("buenos días");
         int numero = 5;
         if (numero % 2 == 0) {
             System.out.println("El número es par");
