@@ -7,5 +7,6 @@ public class java {
         } else {
             System.out.println("El número es impar");
         }
+        System.out.println("El número es: " + numero);
     }
 }
